@@ -1,4 +1,4 @@
-# 19 bit CPU implementation using Verilog HDL
+# 8-bit CPU implementation using Verilog HDL
 
 ## Instructions
 
